@@ -9,7 +9,7 @@ A two-ring microwave sensor, simulated in CST, that shows how water and sugar ad
 
 [![Watch the demo](images/cst_top_view.png)](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)
 
-**[Demo video and files on Google Drive](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)** · Full write-up: [https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/Milk%20Adulteration%20Microwave%20Sensor%20-%20Project%20Report.pdf](docs)
+**[Demo video and files on Google Drive](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)** · Full write-up: [`docs/`](https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/Milk%20Adulteration%20Microwave%20Sensor%20-%20Project%20Report.pdf)
 
 ## At a glance
 
@@ -29,7 +29,7 @@ A two-ring microwave sensor, simulated in CST, that shows how water and sugar ad
 | :---: | :---: |
 | ![f1 shift](images/f1_vs_amount.png) | ![App](images/app_forward.png) |
 
-More figures (parametric sweeps, S11, inverse mode, far-field) are in [`images/`](images).
+More figures (parametric sweeps, S11, inverse mode, far-field) are in [`images/`](https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/Screenshots_CST.pdf).
 
 ## How it works
 
