@@ -7,7 +7,7 @@
 A two-ring microwave sensor, simulated in CST, that shows how water and sugar added to milk shift its resonance, plus a machine-learning app that tells you **what was added and how much**, and also works backwards (pick an adulterant and amount, see the expected sensor response).
 
 
-[![Watch the demo](images/cst_top_view.png)](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)
+[![Watch the demo](Images/Top_view.png)](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)
 
 **[Demo video and files on Google Drive](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)** · Full write-up: [`docs/`](https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/Milk%20Adulteration%20Microwave%20Sensor%20-%20Project%20Report.pdf)
 
@@ -23,11 +23,8 @@ A two-ring microwave sensor, simulated in CST, that shows how water and sugar ad
 
 | Sensor geometry (mm) | S21 with fresh milk |
 | :---: | :---: |
-| ![Geometry](images/geometry_annotated.png) | ![S21](images/s21_fresh_milk.png) |
+| ![Geometry](Images/Top-view.png) | ![S21](Images/S21.png) |
 
-| Resonance shift vs amount added | Streamlit app (forward mode) |
-| :---: | :---: |
-| ![f1 shift](images/f1_vs_amount.png) | ![App](images/app_forward.png) |
 
 More figures (parametric sweeps, S11, inverse mode, far-field) are in [`images/`](https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/Screenshots_CST.pdf).
 
