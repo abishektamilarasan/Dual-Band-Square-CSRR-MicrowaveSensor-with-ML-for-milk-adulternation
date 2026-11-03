@@ -66,20 +66,11 @@ streamlit run app.py        # opens at http://localhost:8501
 
 ## Machine learning
 
-*Add the model description, validation results and usage notes here.*
+*
 
 ## Notes
 
 - Everything is simulated; no fabricated sensor has been measured yet.
-- The original lab CST model is no longer available. The model in `cst/` is the one built for DA1 in the student version.
+- The original lab CST model is no longer available. The model in `cst/` is the one built in the student version.
 - Limitations, the dielectric data sources and all results are in the report in `docs/`.
 
-## Team
-
-Abishek Tamilarasan (24BEC1087) · N Nithya Shapthan (24BEC1153) · Niraimathiyan K (24BEC1397) · Jaya Aswin JV (24BEC1552)
-
-Faculty guide: Dr. Prasad Jones Christy Dass S
-
-## License
-
-*Add a license file (for example MIT) before making the repository public.*
