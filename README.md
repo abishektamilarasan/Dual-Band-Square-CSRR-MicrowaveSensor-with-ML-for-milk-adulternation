@@ -53,19 +53,37 @@ More figures (parametric sweeps, S11, inverse mode, far-field) are in [`images/`
 
 ## Quick start
 
-**Sensor:** open the project in `cst/` with CST Studio Suite (the Education edition is enough). Sensor dimensions are in [GEOMETRY.md](GEOMETRY.md).
+**Sensor:** open the project in `cst/` with CST Studio Suite (the Education edition is enough). Sensor dimensions are in [csv](https://github.com/abishektamilarasan/Dual-Band-Square-CSRR-MicrowaveSensor-with-ML-for-milk-adulternation/blob/main/sensor_geometry.xlsx).
 
-**App:** put `app.py`, `milk_model.py` and `milk_sensor_dataset.csv` in `ml/`, then
-
-```bash
-pip install numpy pandas scipy scikit-learn streamlit plotly
-cd ml
-streamlit run app.py        # opens at http://localhost:8501
-```
 
 ## Machine learning
 
-*
+Bidirectional Machine Learning & Streamlit Dashboard for microwave resonator (CSRR) sensor characterization.
+
+## Files in this package
+- `app.py`: Streamlit interactive web dashboard
+- `milk_model.py`: Core bidirectional machine learning engine
+- `milk_sensor_dataset.csv`: Sensor measurement dataset (MUST be in the same folder)
+- `requirements.txt`: Python package dependencies
+
+## Quick Setup & Run Instructions
+
+### 1. Install Dependencies
+Run in your terminal / command prompt:
+```bash
+pip install -r requirements.txt
+```
+*(Or if using Windows python launcher: `py -m pip install -r requirements.txt`)*
+
+### 2. Launch Dashboard
+```bash
+streamlit run app.py
+```
+*(Or: `py -m streamlit run app.py`)*
+
+### 3. Open in Browser
+Open: `http://localhost:8501`
+
 
 ## Notes
 
