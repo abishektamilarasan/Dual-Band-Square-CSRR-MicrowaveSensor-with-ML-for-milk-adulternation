@@ -1,0 +1,17 @@
+material_type,sample_label,concentration,eps_r_real,f1_GHz,depth1_dB,Q1
+Baseline,Air,0,1.00,2.1677,-29.680,34.41
+Milk,FreshMilk,0,69.55,1.9928,-27.871,17.81
+SyntheticMilk,SyntheticMilk,0,72.09,1.9832,-19.554,6.78
+Water,Water10ml,10,73.03,1.9814,-22.820,9.43
+Water,Water20ml,20,73.86,1.9590,-22.818,9.36
+Water,Water35ml,35,75.11,1.9567,-22.519,8.85
+Water,Water50ml,50,76.36,1.9110,-22.576,10.01
+Water,Water70ml,70,76.97,1.9432,-20.541,6.88
+Water,Water85ml,85,77.42,1.9300,-21.993,8.30
+Water,Water100ml,100,77.88,1.9220,-21.812,8.26
+Sugar,Sugar2g,2,62.96,2.1000,-23.240,10.37
+Sugar,Sugar5g,5,63.05,2.1100,-23.307,10.24
+Sugar,Sugar10g,10,63.20,2.1087,-22.640,9.56
+Sugar,Sugar15g,15,63.35,2.0770,-23.084,11.26
+MixedElectrolyte,MixedElectrolyteLow,0.01,76.42,1.9366,-21.312,7.85
+MixedElectrolyte,MixedElectrolyteHigh,0.1,73.96,1.9639,-16.215,4.56
