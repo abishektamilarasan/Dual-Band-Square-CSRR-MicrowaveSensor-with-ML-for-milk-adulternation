@@ -6,7 +6,6 @@
 
 A two-ring microwave sensor, simulated in CST, that shows how water and sugar added to milk shift its resonance, plus a machine-learning app that tells you **what was added and how much**, and also works backwards (pick an adulterant and amount, see the expected sensor response).
 
-*BECE305L Antenna and Microwave Engineering, VIT Chennai*
 
 [![Watch the demo](images/cst_top_view.png)](https://drive.google.com/drive/folders/1W3719tTcmsYZ4h3aJ749Bmdmj2b1m0iO?usp=drive_link)
 
